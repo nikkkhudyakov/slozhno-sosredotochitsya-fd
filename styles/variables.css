@@ -12,14 +12,14 @@
   --header-logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --footer-logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --bg-color: #000028;
-  --text-color: #f1b2ce;
-  --accent-color: #ff0070;
-  --title-color: #ff0070;
+  --text-color: #F1B2CE;
+  --accent-color: #FF0070;
+  --title-color: #FF0070;
   --subtitle-color: #000028;
-  --nav-color: #ff0070;
-  --logo-color: #db00ff;
-  --border-color: #ff0070;
-  --rec-color: #ff0070;
+  --nav-color: #FF0070;
+  --logo-color: #DB00FF;
+  --border-color: #FF0070;
+  --rec-color: #FF0070;
   --hover-color: rgba(255, 0, 112, 0.4);
 }
 

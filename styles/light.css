@@ -5,13 +5,13 @@
 */
 
 :root.theme-light {
-  --bg-color: #fff1f7;
+  --bg-color: #FFF1F7;
   --text-color: #353430;
   --title-color: #353430;
   --subtitle-color: #353430;
   --nav-color: #353430;
-  --accent-color: #ff8dcb;
-  --logo-color: #ffc2e6;
+  --accent-color: #FF8DCB;
+  --logo-color: #FFC2E6;
   --border-color: #353430;
   --hover-color: rgba(50, 49, 45, 0.4);
   --bg-image: url(../images/cover-image-light.png);
